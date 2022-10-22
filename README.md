@@ -9,7 +9,7 @@ ii) Complexity of Binary search is O(logn)
 
 _________________________________________________________________________________________________________________________________
 
-2 Program on Graph Representations and Traversals: 
+2. Program on Graph Representations and Traversals: 
 i) Write a program to represent a graph of 5 nodes in memory using adjacency matrix and traverse it using Depth First Search 
 ii) Write a program to represent a graph of 5 nodes in memory using adjacency list and traverse it using Breadth First Search.
 
